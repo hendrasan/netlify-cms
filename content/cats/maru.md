@@ -1,7 +1,6 @@
 ---
 name: Maru
-image:
+thumbnail: /static/img/cat.jpeg
 profile: Maru is a good boy
 ---
 
-Cats are awesome
