@@ -1,9 +1,9 @@
 ---
 title: About Awesome Kitties
+about: This is about us
 teams:
-  - name: Hendra Susanto
-    description: He's a web developer who loves cat
-    photo: 
+  - description: He's a web developer who loves cat
+    name: Hendra Susanto
+    photo: /static/img/cat.jpeg
 ---
 
-Awesome Kitties is a lorem ipsum site
